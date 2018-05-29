@@ -1,0 +1,14 @@
+uuid: eb936f83-ffa5-4658-8df7-9f94c9e7125e
+name: dps-d8
+mail: tamba@tambalamin.me
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

@@ -1,0 +1,14 @@
+uuid: 557353af-f9a7-4a0a-9747-3a40f6a37fde
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - tamba@tambalamin.me
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
